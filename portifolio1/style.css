@@ -1,0 +1,52 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Roboto+Condensed&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+.apresentacao{
+    margin: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.apresentacao_conteudo{
+    width: 615px;
+    gap: 40px;
+}
+
+.estilizacao{
+    font-family: 'Krona One', sans-serif;
+    font-size: 36px
+}
+
+.estilizacao2{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 26px
+}
+.destaque{
+    color: aquamarine;
+}
+.links{
+    display: flex;
+    justify-content: space-between;
+}
+.insta_git{
+    background-color: aqua;
+    width: 200px;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 24px;
+    padding: 21.5px 0;
+    text-decoration: none;
+}
+
+img{
+    border-radius: 50%;
+}
+
