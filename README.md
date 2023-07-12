@@ -1,2 +1,6 @@
 # Primeira página
-``Está é a minha primeira página feita em HTML e CSS.``
+``Minha primeira página, simples e básica``
+
+# O que foi utilizado?
+*HTML*
+*CSS*
